@@ -1,13 +1,13 @@
 # Hi 👋, I'm JAYWANT ADHAU
-A passionate DEVLOPER from INDIA🇮🇳
+A passionate DEVELOPER from INDIA🇮🇳
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Jaywantadh&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 I’m currently learning **Python machine Learning and Automation**
-- 👯 I’m always looking to collaborate on
+- 👯 I’m always looking to collaborate on **[Your Collaboration Interest]**
 - 🤝 I’m looking for help with **pending...**
 - 📝 I regularly write articles on [Medium Profile](https://www.blogger.com/blog/posts/7285401529831179197?hl=en-GB&tab=jj)
-- 📫 How to reach me **Jaywantadhau16003@gmail.com**
+- 📫 How to reach me **Jaywantadhau6003@gmail.com**
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaywant-adhau-12b8bb24b)
@@ -27,4 +27,3 @@ A passionate DEVLOPER from INDIA🇮🇳
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaywantadh&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaywantadh&layout=compact&theme=dark)
-

@@ -4,7 +4,7 @@ A passionate DEVELOPER from INDIA🇮🇳
 ![Profile Views](https://komarev.com/ghpvc/?username=Jaywantadh&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 I’m currently learning **Python machine Learning and Automation**
-- 👯 I’m always looking to collaborate on **[Your Collaboration Interest]**
+- 👯 If looking to collaborate, **You can always connect**
 - 🤝 I’m looking for help with **pending...**
 - 📝 I regularly write articles on [Medium Profile](https://www.blogger.com/blog/posts/7285401529831179197?hl=en-GB&tab=jj)
 - 📫 How to reach me **Jaywantadhau6003@gmail.com**

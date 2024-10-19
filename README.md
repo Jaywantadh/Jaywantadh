@@ -24,6 +24,10 @@ A passionate DEVELOPER from INDIA🇮🇳
 [![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+
 
 ### GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaywantadh&show_icons=true&theme=dark)
